@@ -1,5 +1,5 @@
 ```json
-{"OrderID":"123", "Quantity":"30", "QuantityText":"The quantity is 30"}`
+{"OrderID":"123", "Quantity":"30", "QuantityText":"The quantity is 30"}
 
 ```sql
 SELECT OrderID, Quantity,
