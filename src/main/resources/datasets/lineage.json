@@ -1,0 +1,12 @@
+[
+  { "id": 1, "age": 18, "phone": null, "alt_phone": "555-1001" },
+  { "id": 2, "age": 18, "phone": "555-1002", "alt_phone": null },
+  { "id": 3, "age": 19, "phone": null, "alt_phone": null },
+  { "id": 4, "age": 19, "phone": "555-1004", "alt_phone": "555-2004" },
+  { "id": 5, "age": 20, "phone": null, "alt_phone": "555-1005" },
+  { "id": 6, "age": 21, "phone": "555-1006", "alt_phone": null },
+  { "id": 7, "age": 21, "phone": null, "alt_phone": "555-1007" },
+  { "id": 8, "age": 22, "phone": null, "alt_phone": null },
+  { "id": 9, "age": 39, "phone": "555-1009", "alt_phone": "555-2009" },
+  { "id": 10, "age": 45, "phone": null, "alt_phone": "555-1010" }
+]
