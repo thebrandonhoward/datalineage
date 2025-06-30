@@ -1,4 +1,4 @@
-`
+```
 20:37:18.418 [Executor task launch worker for task 0.0 in stage 3.0 (TID 3)] INFO org.apache.spark.sql.catalyst.expressions.codegen.CodeGenerator -- Code generated in 28.632 ms
 User Defined Function Processing ageCaseWithLineage for field: 18
 User Defined Function Processing coalesceWithLineage2 for names: [phone, alt_phone, na] and fields: [null, 555-1001, na] -> Matched: alt_phone
@@ -21,7 +21,7 @@ User Defined Function Processing coalesceWithLineage2 for names: [phone, alt_pho
 User Defined Function Processing ageCaseWithLineage for field: 45
 User Defined Function Processing coalesceWithLineage2 for names: [phone, alt_phone, na] and fields: [null, 555-1010, na] -> Matched: alt_phone
 20:37:18.437 [Executor task launch worker for task 0.0 in stage 3.0 (TID 3)] INFO org.apache.spark.executor.Executor -- Finished task 0.0 in stage 3.0 (TID 3). 2090 bytes result sent to driver
-`
+```
 
 ---
 
